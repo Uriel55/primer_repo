@@ -1,13 +1,13 @@
 # Probando probando
-Texto random de prueba, cortesia de un huevon
-
-Mas texto random: hey llego el sensei fiesta al cien pal dj acocnao12fdqcecma no se que sigue...
-
 Miami me lo confirmo
 Pueltolico me lo regalo !!!!!
 
+## Texto escrito en una rama feature
 
-## Bebesitaaaaaaaaaaaaaaaa
+1. No se podra ver en la rama principal ni en ninguna otra
+
+
+# Bebesitaaaaaaaaaaaaaaaa
 
 avocados from Mexicoooooo
 
